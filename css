@@ -1,0 +1,68 @@
+@media (max-width: 768px) {
+  body, html {
+    text-align: center;
+    font-family: Gotham, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+  }
+  section {
+    width: 50%;
+    margin: auto;
+  }
+  h1 {
+    font-size: 2em;
+    color: red;
+  }
+  h2 {
+    font-size: 1.5em;
+    color: red;
+  }
+  p {
+    color: red;
+  }
+}
+
+@media (max-width: 500px) {
+  body, html {
+    text-align: center;
+    font-family: Gotham, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+  }
+  section {
+    width: 50%;
+    margin: auto;
+  }
+  h1 {
+    font-size: 2em;
+    color: blue;
+  }
+  h2 {
+    font-size: 1.5em;
+    color: blue;
+  }
+  p {
+    color: blue;
+  }
+}
+
+@media (max-width: 1200px) {
+  body, html {
+    text-align: center;
+    font-family: Gotham, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+  }
+  section {
+    width: 50%;
+    margin: auto;
+  }
+  h1 {
+    font-size: 2em;
+    color: purple;
+  }
+  h2 {
+    font-size: 1.5em;
+    color: purple;
+  }
+  p {
+    color: purple;
+  }
+}
